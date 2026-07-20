@@ -110,7 +110,7 @@ git clone https://github.com/Techsamie11/Result_Dashboard_JSP.git
 4. Create a MySQL database.
 
 ```sql
-CREATE DATABASE result_dashboard;
+CREATE DATABASE DemoStud;
 ```
 
 5. Import the SQL file.
